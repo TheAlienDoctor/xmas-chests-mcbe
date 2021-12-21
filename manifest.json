@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§9Adds in the xmas chests from Minecraft Java edition §r| §1by TheAlienDoctor - original texture by Mojang §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0",
+        "name": "§1Alien's §eXmas chests §4(V1.0.0)",
+        "uuid": "6a713136-7d70-4f89-af29-5b6c09cfa248",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            18,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "§9Adds in the xmas chests from Minecraft Java edition §r| §1by TheAlienDoctor - original texture by Mojang §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0",
+            "type": "resources",
+            "uuid": "03e2dde6-8acc-4c05-ae27-3065028f741c",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
